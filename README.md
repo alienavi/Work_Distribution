@@ -38,3 +38,4 @@ Each set can be assigned to one employee/worker.
 ---
 ### TODO:
 - Divide each set into numbers of employees present.
+- Optimize for load to be more evenly distributed.
