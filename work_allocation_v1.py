@@ -8,7 +8,6 @@ Inputs :
     # types of work
     # Number of work
     # time required per work type
-    # Number of employees
 Output :
     # Optimized work allocation for all employees
 '''
